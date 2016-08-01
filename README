@@ -1,9 +1,3 @@
-# SOFTENG206-Project
-Final project for SOFTENG206 course, worth majority of grade.
-
-Audio and commentary creator for video files.  
-Requires Linux with Festival voice synthesis and ffmpeg installed.
-
 To run VIDIVOX navigate to the VIDIVOX jar directory and use
 java -jar vidivox
 or right click and run with java if oracle jre is installed.
