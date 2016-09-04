@@ -1,4 +1,4 @@
-# SOFTENG206-Project
+# Videvox Video/Audio Editor
 Final project for SOFTENG206 course, worth majority of grade.
 
 Audio and commentary creator for video files.  
