@@ -20,3 +20,5 @@ KNOWN BUGS:
  - Create graphical representation with waveforms of currently added audio
  - Improve progress bar representation
  - Create more file/user safe data storage
+ - **Refactor GUI classes**
+   - GUI class grew far larger than expected and was out of control by the end of the project.  Use of delegates to further uncouple the GUI classes and other methods would be good
